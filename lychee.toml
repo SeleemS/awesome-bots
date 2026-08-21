@@ -1,0 +1,7 @@
+accept = ["text/html", "application/json", "text/plain"]
+exclude_loopback = true
+max_retries = 3
+timeout = 30
+
+[output]
+format = "pretty"

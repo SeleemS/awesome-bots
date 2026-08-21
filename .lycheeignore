@@ -1,0 +1,4 @@
+# Ignore known rate-limited or temporary URLs
+github.com/*/actions/runs
+github.com/*/releases/tag
+img.shields.io
